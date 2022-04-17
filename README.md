@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @amirakbarwicaksono
+- 👋 Hi, I’m @akbarwicaksn
 - 👀 I’m interested in Front And Back End Programming
 - 🌱 I’m currently learning Artificial Intelegent 
 - 💞️ I’m looking to collaborate on OEE Monitoring System
