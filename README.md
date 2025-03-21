@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @akbarwicaksn
 - 👀 I’m interested in Front And Back End Programming
 - 🌱 I’m currently learning Artificial Intelegent 
-- 💞️ I’m looking to collaborate on OEE Monitoring System
+- 💞️ I’m looking to collaborate on OEE Monitoring System also in Data Analyst
 - 📫 How to reach me 
 
 <!---
